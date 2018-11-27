@@ -63,6 +63,6 @@ If you need to print this project, please use the [printer-friendly version](htt
 
 --- /no-print ---
 
-Find the [solution to this project here](http://rpf.io/p/en/ghostbusters-get).
+Find the [solution to this project here](http://rpf.io/p/en/ghostbusters-scratch2-get).
 
 --- /collapse ---
